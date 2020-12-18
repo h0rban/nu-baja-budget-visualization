@@ -18,11 +18,7 @@ pages: [https://h0rban.github.io/nu-baja-budget-visualization/](https://h0rban.g
 </p>
 
 **Overview and Instructions**
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ff910Skuu-o" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-</div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ff910Skuu-o/0.jpg)](https://www.youtube.com/watch?v=Ff910Skuu-o)
 
 
 ## Partners
