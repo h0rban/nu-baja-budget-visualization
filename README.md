@@ -10,7 +10,8 @@ For this project, we used financial data from the Northeastern Motorsports Club 
 budget by funding sources, and also show where they are spending the most money by budget category. We used three
 different bar chart variations to display a budget summary for the NU Motorsports Club. For technology, we mainly used
 D3 to create our visualizations. Github
-pages: [https://h0rban.github.io/nu-baja-budget-visualization/](https://h0rban.github.io/nu-baja-budget-visualization/)
+pages: [https://h0rban.github.io/nu-baja-budget-visualization/](https://h0rban.github.io/nu-baja-budget-visualization/), 
+report: [https://www.academia.edu/44721855/Visualization_of_NEU_Baja_Budget](https://www.academia.edu/44721855/Visualization_of_NEU_Baja_Budget)
 
 **Sample**
 <p>
