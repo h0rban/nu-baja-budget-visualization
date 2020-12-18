@@ -1,0 +1,37 @@
+item_name,category,source,amount_spent,total_amount
+Mayhem Registration,Competition,Misc,0.00,6000.00
+Epreuve du Nord Registration,Competition,Source A,269.17,10000.00
+Illinois Registration,Competition,Source C,1350.00,2275.32
+Kentucky Registration,Competition,Source C,0.00,2275.32
+Kentucky Registration,Competition,Source A,0.00,10000.00
+Mayhem Truck,Competition,Source F,1366.19,5000.00
+EdN Truck,Competition,Source F,0.00,5000.00
+Kentucky Truck,Competition,Source F,0.00,5000.00
+Illinois Truck,Competition,Source F,0.00,5000.00
+Mayhem Truck Fuel,Competition,Source A,676.92,10000.00
+EdN Truck Fuel,Competition,Source A,0.00,10000.00
+Kentucky Truck Fuel,Competition,Source A,0.00,10000.00
+Illinois Truck Fuel,Competition,Source E,0.00,7500.00
+Mayhem Personnel Gas,Competition,Source A,765.12,10000.00
+EdN Personnel Gas,Competition,Source A,297.22,10000.00
+Kentucky Personnel Gas,Competition,Source A,0.00,10000.00
+Illinois Personnel Gas,Competition,Source E,0.00,7500.00
+Mayhem Lodging,Competition,Source A,532.80,10000.00
+EdN Hotel,Competition,Misc,1648.93,6000.00
+Kentucky Hotel,Competition,Misc,0.00,6000.00
+Illinois Hotel,Competition,Misc,0.00,6000.00
+Frame,Build,Source B,2420.00,10200.50
+COTS Parts,Build,Source B,1032.70,10200.50
+COTS Parts,Build,Source E,458.30,7500.00
+Hardware and Consumables,Build,Source A,546.19,10000.00
+Sparky,Build,Source E,128.22,7500.00
+Stock,Build,Source B,2634.84,10200.50
+Shocks,Build,Source A,2972.61,10000.00
+Engine,Build,Source A,309.14,10000.00
+Outsourced Parts,Build,Source D,0.00,2275.32
+Testing Fall,Testing,Source E,1607.48,7500.00
+Testing Spring,Testing,Source E,375.89,7500.00
+Other,Testing,Source E,2227.24,7500.00
+Tools and Equipment,Other,Source A,1177.43,10000.00
+Website,Other,Source A,65.94,10000.00
+Miscellaneous,Other,Misc,-1080.41,5000.00
