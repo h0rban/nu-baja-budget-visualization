@@ -24,5 +24,4 @@ report: [https://www.academia.edu/44721855/Visualization_of_NEU_Baja_Budget](htt
 
 
 ## Partners
-
-Brandon Archbald, Shaun Khundker
+[Brandon Archbald](https://github.com/barchbald), [Shaun Khundker](https://github.com/shaunkh)
